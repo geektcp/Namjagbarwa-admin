@@ -13,8 +13,8 @@ export default () => {
       copyright={`${currentYear} ${defaultMessage}`}
       links={[
         {
-          key: 'Ant Design Pro',
-          title: 'Ant Design Pro',
+          key: 'react-platform',
+          title: 'react-platform',
           href: 'https://pro.ant.design',
           blankTarget: true,
         },
